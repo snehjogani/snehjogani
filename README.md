@@ -68,7 +68,7 @@ I like exploring new technologies and ideas. If you'd like to discuss any startu
 
 [1]: https://twitter.com/sjogani16
 [2]: https://www.linkedin.com/in/sneh-jogani/
-[3]: https://github.com/SahilFruitwala
+[3]: https://github.com/snehjogani
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
