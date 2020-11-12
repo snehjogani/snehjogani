@@ -13,7 +13,7 @@ I like exploring new technologies and ideas. If you'd like to discuss any startu
 **Back-end:** Node.JS  *(express, mongoose)*  
 **Database:** MongoDB
 
-  * [Repository](https://github.com/satyakumaritekela/Taskatic)
+  * [Repository](https://github.com/snehjogani/Taskatic)
 
 </td><td valign="top">
 
